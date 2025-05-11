@@ -1,0 +1,2 @@
+# cayirgozOyun.cs
+kankalarim icin
